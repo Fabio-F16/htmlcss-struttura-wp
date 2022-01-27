@@ -29,7 +29,7 @@ main{
     margin-top: 20px;
 }
 
-.clearfix{
+.clearfix::after{
     content: "";
     clear: both;
     display: table;
