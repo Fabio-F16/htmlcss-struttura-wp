@@ -31,7 +31,7 @@ main{
     padding-bottom: 2px;
 }
 
-.clearfix::after{
+.clearfix:after{
     content: "";
     clear: both;
     display: table;
